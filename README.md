@@ -10,7 +10,7 @@
 
 # What I’m Interested In: 
 - Machine Learning models and how they solve real-world problems.  
-- Data visualization and storytelling using libraries like Matplotlib and Seaborn.  
+- Data visualization using libraries like Matplotlib and Seaborn.  
 - Understanding the broader scope of Artificial Intelligence.  
 
 # What I’ve Learned So Far: 
