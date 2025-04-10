@@ -1,6 +1,6 @@
 # Hi, I’m Faith Kinya
 
-🎓 A Data Science Student | Aspiring Machine Learning Engineer | Passionate about solving real-world problems with data
+🎓 A Data Science Student | Passionate about solving real-world problems with data
 - I’m currently diving into Machine Learning techniques. Exploring real-world applications of ML by working on projects.
 
 # What I'm Currrenty Doing:
