@@ -4,7 +4,8 @@
 - I’m currently diving into Machine Learning techniques. Exploring real-world applications of ML by working on projects.
 
 # What I'm Currrenty Doing:
-- Sharpening my Python and R programming skills while exploring their libraries.  
+- Sharpening my Python and R programming skills while exploring their libraries.
+- Exploring data analysis techniques to sharpen my skills.  
 - Diving deeper into machine learning concepts, including Exploratory Data Analysis (EDA), data transformation, and ML algorithms
 - Exploring real-world applications of ML by working on projects.
 
@@ -16,11 +17,11 @@
 # What I’ve Learned So Far: 
 - Python libraries like Pandas, NumPy, and Scikit-learn.  
 - Data cleaning, preprocessing, and transformation techniques. 
-- Basics of R for statistical analysis.  
+- Basics of R for statistical analysis. 
 
 # What I’m Looking For:  
 - Beginner-friendly projects to collaborate on.  
-- Learning opportunities to deepen my understanding of ML and AI.  
+- Learning opportunities to deepen my understanding of Data Science, ML and AI.  
 
 # Let’s Connect:  
 - Email: faithkinya585@gmail.com  
