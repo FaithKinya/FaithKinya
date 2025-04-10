@@ -7,20 +7,20 @@
 - Sharpening my Python and R programming skills while exploring their libraries.
 - Exploring data analysis techniques to sharpen my skills.  
 - Diving deeper into machine learning concepts, including Exploratory Data Analysis (EDA), data transformation, and ML algorithms
-- Exploring real-world applications of ML by working on projects.
+- Exploring real-world applications of Data Science by working on projects.
 
 # What I’m Interested In: 
 - Machine Learning models and how they solve real-world problems.  
 - Data visualization using libraries like Matplotlib and Seaborn.  
-- Understanding the broader scope of Artificial Intelligence.  
+- Understanding the broader scope of Data Science and Artificial Intelligence.  
 
 # What I’ve Learned So Far: 
-- Python libraries like Pandas, NumPy, and Scikit-learn.  
+- Python libraries like Pandas, NumPy, and Scikit-learn and others.  
 - Data cleaning, preprocessing, and transformation techniques. 
 - Basics of R for statistical analysis. 
 
 # What I’m Looking For:  
-- Beginner-friendly projects to collaborate on.  
+- Projects to collaborate on.  
 - Learning opportunities to deepen my understanding of Data Science, ML and AI.  
 
 # Let’s Connect:  
