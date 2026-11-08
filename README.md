@@ -1,4 +1,4 @@
-## Faith Kinya
+# Faith Kinya
 
 # Data | AI | Technology
 
