@@ -1,24 +1,21 @@
-# Hi, I’m Faith Kinya
+Faith Kinya
 
-🎓 A Data Science Student | Passionate about solving real-world problems with data
-- I’m currently diving into  ML, DL and AI. Exploring real-world applications of AI by working on projects.
+Data | AI | Technology
 
-## What I'm Currrenty Doing:
-- Diving deeper into Machine Learning and Deep Learning techniques
-- Working with NLP and LLMs to build intelligent systems.
-- Learning new technologies and skills for continuous growth.
+I work with data and technology to explore problems, build useful solutions, and make information more accessible.
 
-## What I’m Interested In: 
-- Deep Learning models and how they solve real-world problems.   
-- Understanding the broader scope of Data Science and Artificial Intelligence.
+My interests span data analytics, machine learning, artificial intelligence, and software development. I enjoy moving between understanding a problem, exploring the data behind it, and building something practical from what I learn.
 
-## What I’m Looking For:  
-- Projects to collaborate on.  
-- Learning opportunities to deepen my understanding of Data Science, ML and AI.  
+Here you'll find projects I've worked on, experiments, and ideas I'm developing across these areas.
 
-## Let’s Connect:  
-- Email: faithkinya585@gmail.com  
-  
+Areas of interest
 
-⚡ Fun Fact:
-- Aside from data science, i enjoy reading books and exploring various forms of art.
+- Applied Artificial Intelligence and Machine Learning
+- Data Analytics and Business Intelligence
+- Data Engineering and Cloud Technologies
+- Intelligent Applications and Decision Support
+- Technology for Healthcare and Research
+
+Currently building, exploring and learning.
+
+"LinkedIn" (YOUR_LINKEDIN_URL) · "Email" (mailto:YOUR_EMAIL)
