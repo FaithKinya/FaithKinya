@@ -1,6 +1,6 @@
-Faith Kinya
+## Faith Kinya
 
-Data | AI | Technology
+# Data | AI | Technology
 
 I work with data and technology to explore problems, build useful solutions, and make information more accessible.
 
@@ -8,7 +8,7 @@ My interests span data analytics, machine learning, artificial intelligence, and
 
 Here you'll find projects I've worked on, experiments, and ideas I'm developing across these areas.
 
-Areas of interest
+## Areas of interest
 
 - Applied Artificial Intelligence and Machine Learning
 - Data Analytics and Business Intelligence
@@ -18,4 +18,5 @@ Areas of interest
 
 Currently building, exploring and learning.
 
-"LinkedIn" (YOUR_LINKEDIN_URL) · "Email" (mailto:YOUR_EMAIL)
+# 'LinkedIn' https://www.linkedin.com/in/faith-kinya-42519043a
+# 'Email' faithkinya585@gmail.com or faithkinya204@gmail.com
